@@ -2,8 +2,8 @@
 my first repository
 ===================
 
-So, uh, I'm new here.
+Working through the Hacking with Swift projects and Learning Python the Hard Way exercises.
 
-And sometimes I don't stick with new things, so if this is old and dusty now, soz - I'm probs long gone.
+LPtHW:  Completed Exercises 1-16
 
-If I'm still kicking around, that's awesome. You should check out how well I'm going with the Swift-learning, and say hi or offer some assistance or commiserations as the case may be.
+HwS:    Completed Projects 1-4

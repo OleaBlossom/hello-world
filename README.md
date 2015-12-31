@@ -6,4 +6,4 @@ Working through the Hacking with Swift projects and Learning Python the Hard Way
 
 LPtHW:  Completed Exercises 1-16
 
-HwS:    Completed Projects 1-4
+HwS:    Completed Projects 1-6
